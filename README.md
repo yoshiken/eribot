@@ -1,1 +1,6 @@
-# eribot
+#eribot
+
+kasikoi
+
+kawaii
+
