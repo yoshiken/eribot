@@ -1,6 +1,11 @@
 #eribot
+かしこいかわいい感じにしたい
 
-kasikoi
+#機能
 
-kawaii
+##lovelive_gif
+mentionで"gif"って投げるとlovelivegif.tumblr.comから適当にgifを引っ張ってくる
+
+
+
 
