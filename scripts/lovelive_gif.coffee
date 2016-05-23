@@ -1,3 +1,22 @@
+# Description
+#  get lovelive-gif by tumblr
+# 
+# Dependencies:
+#  "tumblrbot": "0.1.0"
+#
+# Configuration:
+#  HUBOT_TUMBLR_API_KEY=TumblrAPIkey
+#
+# Commands:
+#  hubot gif
+#
+# Notes:
+#  None
+#
+# Author:
+#  yoshikne
+
+
 tumblr = require "tumblrbot"
 SOURCES = {
   "lovelivegif.tumblr.com"
