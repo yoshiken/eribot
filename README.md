@@ -79,8 +79,9 @@ Please refer to the Slack token For the below link to reference
 
 enjoy! :)
 
+```
 $ cf push application_name
-
+```
 
 
 
