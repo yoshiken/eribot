@@ -5,12 +5,14 @@
   "author": "yskn.beer@gmail.com",
   "description": "kasikoi kawaii Bot",
   "dependencies": {
+    "cron": "^1.1.0",
+    "google-auth-library": "^0.9.8",
+    "googleapis": "^7.1.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
-    "hubot-heroku-keepalive": "^1.0.2",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
@@ -19,6 +21,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2",
     "node-pixiv": "^0.1.1",
+    "time": "^0.11.4",
     "tumblrbot": "0.1.0"
   },
   "engines": {
