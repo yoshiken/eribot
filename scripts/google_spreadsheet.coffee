@@ -18,12 +18,7 @@ var time = dt.toFormat("YYYY/MM/DD");
   my_sheet.addWorksheet(
   function(err,my_sheet){
     console.log("addWorksheet err="+ err);
-      spreadsheet.add({ 3: { 5: "hello!" } });
-
-      spreadsheet.send(function(err) {
-        if(err) throw err;
-        console.log("Updated Cell at row 3, column 5 to 'hello!'");
-      });
   });
+
 
 });
