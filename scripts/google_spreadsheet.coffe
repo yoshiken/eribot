@@ -1,0 +1,15 @@
+var GoogleSpreadsheet = require('google-spreadsheet');
+ 
+var my_sheet = new GoogleSpreadsheet('1EdL3Jh7k7jmYuV3Gl3MaV4ye8CYj7umZF1V6EnAm-Pk');
+ 
+var creds = require('../gs.json');
+
+my_sheet.useServiceAccountAuth(creds, function(err){
+        my_sheet.getInfo(function(err, sheet_info){
+                                console.log(err);
+                console.log(sheet_info.title + ' is loaded!');
+        });
+
+})
+
+
