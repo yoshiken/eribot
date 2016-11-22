@@ -1,6 +1,6 @@
 # Description
 #  get lovelive-gif by tumblr
-# 
+#
 # Dependencies:
 #  "tumblrbot": "0.1.0"
 #

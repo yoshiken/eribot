@@ -6,8 +6,6 @@
   "description": "kasikoi kawaii Bot",
   "dependencies": {
     "cron": "^1.1.0",
-    "google-auth-library": "^0.9.8",
-    "googleapis": "^7.1.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
